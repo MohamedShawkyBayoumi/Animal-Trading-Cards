@@ -1,0 +1,59 @@
+/* add your CSS here */
+
+h3 {
+	font-family: helvetica;
+	font-size: 22px;
+	color: #9f4f0f;
+	text-align: center;
+	letter-spacing:10px;
+}
+
+.i {
+	font-style:italic;
+	color: #234978;
+	line-height:1.3em;
+}
+
+ul li {
+	color: #cc6e3e;
+}
+
+ul li span {
+	font-weight:bold;
+	color: #774102;
+	font-family: arial;
+}
+
+ul {
+	padding: 0;
+}
+
+ul li {
+	list-style:none;
+}
+
+.border-information {
+	border:1px dotted #ddd;
+	padding: 0 10px;
+	border-radius:15px;
+}
+
+
+.border-all {
+	padding:15px;
+	border:1px solid #ddd;
+	width: 300px;
+	box-shadow:5px 5px 5px #eee;
+}
+
+
+img {
+	margin-bottom:10px;
+	border-radius:15px;
+	box-shadow:5px 5px 5px #ddd;
+}
+
+.information {
+	color: #725431;
+	line-height:1.3em;
+}
